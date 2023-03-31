@@ -65,8 +65,74 @@
     margin-bottom: -125px;
 }
 
-.main {
-    background-color: bisque;
+.main-1 {
+    background-color: #495E57;
+    margin: 0;
+    padding: 100px 0;
+    box-sizing: border-box;
+}
+
+.main-1 h1 {
+    color: whitesmoke;
+    font-size: 45px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 50px;
+    margin-right: 0px;
+}
+
+.main-1 p {
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 50px;
+    margin-right: 0px;
+}
+
+.main-1 img {
+    float: right;
+    margin-right: 115px;
+    margin-bottom: 1000px;
+}
+
+.main-1 button {
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 75px;
+    margin-left: 50px;
+    background-color: #ffd300;
+    transition-duration: 0.4s;
+    border-radius: 15px;
+    width: 25%;
+    height: 75px;
+}
+
+.main-1 button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+.main-2 {
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 70px 0;
+    box-sizing: border-box;
+}
+
+.main-3 {
+    background-color: #495E57;
+    margin: 0;
+    padding: 70px 0;
+    box-sizing: border-box;
+}
+
+.main-4 {
+    background-color: whitesmoke;
+    margin: 0;
+    padding: 70px 0;
+    box-sizing: border-box;
 }
 
 .footerContainer{

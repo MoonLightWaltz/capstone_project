@@ -26,37 +26,49 @@ function App() {
      </nav>
      </div>
 
-    <div className='main'>
-      <div className="mainContainer">
-        <div className="mainRow">
-          <div className="main-col">
+    <div className='main-1'>
+      <div className="mainContainer-1">
+        <div className="mainRow-1">
+          <div className="main-col-1">
+            <main>
+              <h1>Little Lemon Resturant</h1>
+              <p>odjsniosnocnsdoncjosdncjosdncjonsdjoncojsdncjosdnjocnsdjoncj</p>
+              <p>odjsniosnocnsdoncjosdncjosdncjonsdjoncojsdncjosdnjocnsdjoncj</p>
+              <p>odjsniosnocnsdoncjosdncjosdncjonsdjoncojsdncjosdnjocnsdjoncj</p>
+              <p>odjsniosnocnsdoncjosdncjosdncjonsdjoncojsdncjosdnjocnsdjoncj</p>
+              <img src="restauranfood.png" width="350" height="500"></img>
+              <br></br>
+              <button>Free Coupon Code!</button>
+            </main>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div className='main-2'>
+      <div className="mainContainer-2">
+        <div className="mainRow-2">
+          <div className="main-col-2">
             <main>Main</main>
           </div>
         </div>
       </div>
     </div>
-    <div className='main'>
-      <div className="mainContainer">
-        <div className="mainRow">
-          <div className="main-col">
+
+    <div className='main-3'>
+      <div className="mainContainer-3">
+        <div className="mainRow-3">
+          <div className="main-col-3">
             <main>Main</main>
           </div>
         </div>
       </div>
     </div>
-    <div className='main'>
-      <div className="mainContainer">
-        <div className="mainRow">
-          <div className="main-col">
-            <main>Main</main>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div className='main'>
-      <div className="mainContainer">
-        <div className="mainRow">
-          <div className="main-col">
+
+    <div className='main-4'>
+      <div className="mainContainer-4">
+        <div className="mainRow-4">
+          <div className="main-col-4">
             <main>Main</main>
           </div>
         </div>
