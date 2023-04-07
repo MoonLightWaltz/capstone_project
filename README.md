@@ -5,7 +5,7 @@ Capstone project for Coursera
 <br>
 <p> This is a more advanced webpage design that is the capstone project for the coure I'm taking on Coursera. This webpage includes a functional nav bar, footer, different sections, image and text animations. This project probably took me a little over a week to create from the ground up. I went off of a wireframe design that I created in Figma. The goal with this webpage was to see if I could create a direct copy of a webpage concept that I created in Figma. I'll inclide pictures of the wire frame and prototype I created as well so you can have refrence. </p>
 
- <img width="959" alt="image" src=""public/Screenshot 2023-04-06 205933.png>
+ <img width="959" alt="image" src="public/Screenshot 2023-04-06 205933.png">
   
 
 <h2> About </h2>
